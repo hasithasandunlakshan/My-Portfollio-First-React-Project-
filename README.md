@@ -27,5 +27,4 @@ As this repository contains only the build files, contributions are not accepted
 
 ## Contact
 
-If you have any questions or inquiries, feel free to contact me via email: your.email@example.com
-
+If you have any questions or inquiries, feel free to contact me via email: hasiofficial2002@gmail.com
